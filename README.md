@@ -30,6 +30,11 @@ Add some custom attributes:
 * `alarmColor`: change alarm's color
 * `alarmPadding`: change distance between alarm's edge and View's edge. Default is 0.
 
+## Preview
+
+![][Preview]
+
+[Preview]:https://github.com/nvl2val/MIUIAlarm/blob/master/example.gif
 
 
 [1]:https://github.com/MonkeyMushroom/MiClockView

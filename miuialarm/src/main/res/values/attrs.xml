@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MIUIAlarm">
+        <attr name="alarmColor" format="color" />
+        <attr name="alarmPadding" format="dimension" />
+    </declare-styleable>
+</resources>
